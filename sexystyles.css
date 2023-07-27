@@ -59,10 +59,19 @@
   margin-right: 20%;
 }
 
-#sig {
-  font-family: iosevka-etoile-semibold;
-  font-size: 16;
-  text-align: center;
+#readingListed {
+  font-family: iosevka-etoile-regular;
+  font-size: 14;
+  margin-left: 20%;
+  margin-right: 80%;
+}
+
+#pods {
+  font-family: iosevka-semibold;
+  font-size: 18;
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .row {
