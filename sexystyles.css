@@ -45,6 +45,15 @@
   margin-top: -60px;
 }
 
+#podcastTitle {
+  font-family: iosevka-etoile-regular;
+  font-size: 40;
+  text-align: center;
+  margin: auto;
+  /* margin-left: 40px; */
+  /* margin-top: -60px; */
+}
+
 #pizzaSectionTitle {
   font-family: iosevka-etoile-regular;
   font-size: 40;
@@ -69,9 +78,16 @@
 #pods {
   font-family: iosevka-semibold;
   font-size: 18;
-  text-align: left;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin: auto;
+  list-style-type: none;
+
+  text-align: center;
+  /* margin-left: 10px; */
+  margin-left: 20%;
+  margin-right: 80%;
+
+  /* margin-left: 20%; */
+  /* margin-right: 5%; */
 }
 
 .row {
