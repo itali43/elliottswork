@@ -38,11 +38,42 @@
   margin-left: 40px;
 }
 
+#subtitleCenter {
+  font-family: iosevka-etoile-light;
+  font-size: 20;
+  text-align: center;
+  margin: auto;
+}
+
 #sectionTitle {
   font-family: iosevka-etoile-regular;
   font-size: 40;
   margin-left: 40px;
   margin-top: -60px;
+}
+
+#noteTitle {
+  font-family: iosevka-etoile-regular;
+  font-size: 60;
+  text-align: left;
+  margin-left: 40px;
+  margin-top: 30;
+  margin-bottom: 10px;
+}
+#noteSubtitle {
+  font-family: iosevka-etoile-regular;
+  font-size: 40;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+#noteBody {
+  font-family: iosevka-etoile-light;
+  font-size: 20;
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 20px;
 }
 
 #podcastTitle {
@@ -73,6 +104,13 @@
   font-size: 14;
   margin-left: 20%;
   margin-right: 80%;
+}
+
+#additional {
+  font-family: iosevka-semibold;
+  font-size: 18;
+  margin: auto;
+  text-align: center;
 }
 
 #pods {
