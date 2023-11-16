@@ -188,27 +188,27 @@ p {
   font-family: iosevka-etoile-regular;
   src: url("fonts/iosevka-etoile-regular.ttc");
 }
-@font-face {
+/* @font-face {
   font-family: iosevka-regular;
   src: url("fonts/iosevka-regular.ttc");
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: iosevka-etoile-heavy;
   src: url("fonts/iosevka-etoile-heavy.ttc");
-}
+} */
 
 @font-face {
   font-family: iosevka-curly-slab-regular;
   src: url("fonts/iosevka-curly-slab-regular.ttc");
 }
 
-@font-face {
+/* @font-face {
   font-family: iosevka-curly-slab-light;
   src: url("fonts/iosevka-curly-slab-light.ttc");
-}
+} */
 
 @font-face {
-  font-family: iosevka-etoile-extralight;
-  src: url("fonts/iosevka-etoile-extralight.ttc");
+  font-family: iosevka-etoile-light;
+  src: url("fonts/iosevka-etoile-light.ttc");
 }
