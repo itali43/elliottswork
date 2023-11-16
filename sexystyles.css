@@ -40,9 +40,10 @@
 
 #subtitleCenter {
   font-family: iosevka-etoile-light;
-  font-size: 20;
+  font-size: 22;
   text-align: center;
   margin: auto;
+  margin-bottom: 10px;
 }
 
 #sectionTitle {
@@ -107,8 +108,8 @@
 }
 
 #additional {
-  font-family: iosevka-semibold;
-  font-size: 18;
+  font-family: iosevka-etoile-regular;
+  font-size: 15;
   margin: auto;
   text-align: center;
 }
@@ -144,7 +145,7 @@
 .find {
   font-family: iosevka-etoile-regular;
   font-size: 40;
-  margin-top: 70px;
+  margin-top: 20px;
   /* margin-left: 30%;
     margin-right: 30%; */
   text-align: center;
